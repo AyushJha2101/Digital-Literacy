@@ -41,7 +41,7 @@ This repository serves as a Digital Literacy Portfolio developed for the CSE0001
 ---
 
 ### Project Links
-* **Digital Literacy Awareness Quiz (Google Form):** [Paste Your Google Form Link Here]
+* **Digital Literacy Awareness Quiz (Google Form):** https://docs.google.com/forms/d/1mOebiF2OhzTNFM753CQ9atPmMha_FHCuWenorzCqdnc/edit
 
 ---
 
