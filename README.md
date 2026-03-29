@@ -2,8 +2,8 @@
 ## Student Digital Ambassador Portfolio
 
 ### Student Information
-* **Name:** Ayush
-* **Registration Number:** [Enter Your Reg No. Here]
+* **Name:** Ayush Jha
+* **Registration Number:** 25BCE10664
 * **Branch:** Computer Science Engineering
 * **Year:** First Year B.Tech
 * **Course Code:** CSE0001
